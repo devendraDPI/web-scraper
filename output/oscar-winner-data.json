@@ -1,211 +1,211 @@
 [ {
   "isWinner" : true,
-  "year" : "2015",
-  "awards" : "2",
+  "year" : 2015,
+  "awards" : 2,
   "title" : "Spotlight",
-  "epochTime" : "1717264768",
-  "nomination" : "6"
+  "epochTime" : 1720493238,
+  "nomination" : 6
 }, {
   "isWinner" : false,
-  "year" : "2015",
-  "awards" : "6",
+  "year" : 2015,
+  "awards" : 6,
   "title" : "Mad Max: Fury Road",
-  "epochTime" : "1717264768",
-  "nomination" : "10"
+  "epochTime" : 1720493238,
+  "nomination" : 10
 }, {
   "isWinner" : false,
-  "year" : "2015",
-  "awards" : "3",
+  "year" : 2015,
+  "awards" : 3,
   "title" : "The Revenant",
-  "epochTime" : "1717264768",
-  "nomination" : "12"
+  "epochTime" : 1720493238,
+  "nomination" : 12
 }, {
   "isWinner" : false,
-  "year" : "2015",
-  "awards" : "1",
+  "year" : 2015,
+  "awards" : 1,
   "title" : "Bridge of Spies",
-  "epochTime" : "1717264768",
-  "nomination" : "6"
+  "epochTime" : 1720493239,
+  "nomination" : 6
 }, {
   "isWinner" : false,
-  "year" : "2015",
-  "awards" : "1",
+  "year" : 2015,
+  "awards" : 1,
   "title" : "The Big Short",
-  "epochTime" : "1717264768",
-  "nomination" : "5"
+  "epochTime" : 1720493239,
+  "nomination" : 5
 }, {
   "isWinner" : true,
-  "year" : "2014",
-  "awards" : "4",
+  "year" : 2014,
+  "awards" : 4,
   "title" : "Birdman",
-  "epochTime" : "1717264771",
-  "nomination" : "9"
+  "epochTime" : 1720493241,
+  "nomination" : 9
 }, {
   "isWinner" : false,
-  "year" : "2014",
-  "awards" : "4",
+  "year" : 2014,
+  "awards" : 4,
   "title" : "The Grand Budapest Hotel",
-  "epochTime" : "1717264771",
-  "nomination" : "9"
+  "epochTime" : 1720493241,
+  "nomination" : 9
 }, {
   "isWinner" : false,
-  "year" : "2014",
-  "awards" : "3",
+  "year" : 2014,
+  "awards" : 3,
   "title" : "Whiplash",
-  "epochTime" : "1717264771",
-  "nomination" : "5"
+  "epochTime" : 1720493241,
+  "nomination" : 5
 }, {
   "isWinner" : false,
-  "year" : "2014",
-  "awards" : "1",
+  "year" : 2014,
+  "awards" : 1,
   "title" : "The Imitation Game",
-  "epochTime" : "1717264771",
-  "nomination" : "8"
+  "epochTime" : 1720493241,
+  "nomination" : 8
 }, {
   "isWinner" : false,
-  "year" : "2014",
-  "awards" : "1",
+  "year" : 2014,
+  "awards" : 1,
   "title" : "American Sniper",
-  "epochTime" : "1717264771",
-  "nomination" : "6"
+  "epochTime" : 1720493242,
+  "nomination" : 6
 }, {
   "isWinner" : true,
-  "year" : "2013",
-  "awards" : "3",
+  "year" : 2013,
+  "awards" : 3,
   "title" : "12 Years a Slave",
-  "epochTime" : "1717264774",
-  "nomination" : "9"
+  "epochTime" : 1720493244,
+  "nomination" : 9
 }, {
   "isWinner" : false,
-  "year" : "2013",
-  "awards" : "7",
+  "year" : 2013,
+  "awards" : 7,
   "title" : "Gravity",
-  "epochTime" : "1717264774",
-  "nomination" : "10"
+  "epochTime" : 1720493244,
+  "nomination" : 10
 }, {
   "isWinner" : false,
-  "year" : "2013",
-  "awards" : "3",
+  "year" : 2013,
+  "awards" : 3,
   "title" : "Dallas Buyers Club",
-  "epochTime" : "1717264774",
-  "nomination" : "6"
+  "epochTime" : 1720493244,
+  "nomination" : 6
 }, {
   "isWinner" : false,
-  "year" : "2013",
-  "awards" : "2",
+  "year" : 2013,
+  "awards" : 2,
   "title" : "Frozen",
-  "epochTime" : "1717264774",
-  "nomination" : "2"
+  "epochTime" : 1720493244,
+  "nomination" : 2
 }, {
   "isWinner" : false,
-  "year" : "2013",
-  "awards" : "2",
+  "year" : 2013,
+  "awards" : 2,
   "title" : "The Great Gatsby",
-  "epochTime" : "1717264774",
-  "nomination" : "2"
+  "epochTime" : 1720493245,
+  "nomination" : 2
 }, {
   "isWinner" : true,
-  "year" : "2012",
-  "awards" : "3",
+  "year" : 2012,
+  "awards" : 3,
   "title" : "Argo",
-  "epochTime" : "1717264777",
-  "nomination" : "7"
+  "epochTime" : 1720493247,
+  "nomination" : 7
 }, {
   "isWinner" : false,
-  "year" : "2012",
-  "awards" : "4",
+  "year" : 2012,
+  "awards" : 4,
   "title" : "Life of Pi",
-  "epochTime" : "1717264777",
-  "nomination" : "11"
+  "epochTime" : 1720493247,
+  "nomination" : 11
 }, {
   "isWinner" : false,
-  "year" : "2012",
-  "awards" : "3",
+  "year" : 2012,
+  "awards" : 3,
   "title" : "Les Misérables",
-  "epochTime" : "1717264777",
-  "nomination" : "8"
+  "epochTime" : 1720493247,
+  "nomination" : 8
 }, {
   "isWinner" : false,
-  "year" : "2012",
-  "awards" : "2",
+  "year" : 2012,
+  "awards" : 2,
   "title" : "Lincoln",
-  "epochTime" : "1717264777",
-  "nomination" : "12"
+  "epochTime" : 1720493247,
+  "nomination" : 12
 }, {
   "isWinner" : false,
-  "year" : "2012",
-  "awards" : "2",
+  "year" : 2012,
+  "awards" : 2,
   "title" : "Django Unchained",
-  "epochTime" : "1717264777",
-  "nomination" : "5"
+  "epochTime" : 1720493247,
+  "nomination" : 5
 }, {
   "isWinner" : true,
-  "year" : "2011",
-  "awards" : "5",
+  "year" : 2011,
+  "awards" : 5,
   "title" : "The Artist",
-  "epochTime" : "1717264779",
-  "nomination" : "10"
+  "epochTime" : 1720493250,
+  "nomination" : 10
 }, {
   "isWinner" : false,
-  "year" : "2011",
-  "awards" : "5",
+  "year" : 2011,
+  "awards" : 5,
   "title" : "Hugo",
-  "epochTime" : "1717264780",
-  "nomination" : "11"
+  "epochTime" : 1720493250,
+  "nomination" : 11
 }, {
   "isWinner" : false,
-  "year" : "2011",
-  "awards" : "2",
+  "year" : 2011,
+  "awards" : 2,
   "title" : "The Iron Lady",
-  "epochTime" : "1717264780",
-  "nomination" : "2"
+  "epochTime" : 1720493250,
+  "nomination" : 2
 }, {
   "isWinner" : false,
-  "year" : "2011",
-  "awards" : "1",
+  "year" : 2011,
+  "awards" : 1,
   "title" : "The Descendants",
-  "epochTime" : "1717264780",
-  "nomination" : "5"
+  "epochTime" : 1720493250,
+  "nomination" : 5
 }, {
   "isWinner" : false,
-  "year" : "2011",
-  "awards" : "1",
+  "year" : 2011,
+  "awards" : 1,
   "title" : "The Girl with the Dragon Tattoo",
-  "epochTime" : "1717264780",
-  "nomination" : "5"
+  "epochTime" : 1720493250,
+  "nomination" : 5
 }, {
   "isWinner" : true,
-  "year" : "2010",
-  "awards" : "4",
+  "year" : 2010,
+  "awards" : 4,
   "title" : "The King's Speech",
-  "epochTime" : "1717264782",
-  "nomination" : "12"
+  "epochTime" : 1720493253,
+  "nomination" : 12
 }, {
   "isWinner" : false,
-  "year" : "2010",
-  "awards" : "4",
+  "year" : 2010,
+  "awards" : 4,
   "title" : "Inception",
-  "epochTime" : "1717264783",
-  "nomination" : "8"
+  "epochTime" : 1720493253,
+  "nomination" : 8
 }, {
   "isWinner" : false,
-  "year" : "2010",
-  "awards" : "3",
+  "year" : 2010,
+  "awards" : 3,
   "title" : "The Social Network",
-  "epochTime" : "1717264783",
-  "nomination" : "8"
+  "epochTime" : 1720493253,
+  "nomination" : 8
 }, {
   "isWinner" : false,
-  "year" : "2010",
-  "awards" : "2",
+  "year" : 2010,
+  "awards" : 2,
   "title" : "The Fighter",
-  "epochTime" : "1717264783",
-  "nomination" : "7"
+  "epochTime" : 1720493253,
+  "nomination" : 7
 }, {
   "isWinner" : false,
-  "year" : "2010",
-  "awards" : "2",
+  "year" : 2010,
+  "awards" : 2,
   "title" : "Toy Story 3",
-  "epochTime" : "1717264783",
-  "nomination" : "5"
+  "epochTime" : 1720493253,
+  "nomination" : 5
 } ]

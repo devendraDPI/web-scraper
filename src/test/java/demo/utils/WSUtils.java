@@ -101,10 +101,10 @@ public class WSUtils {
                 // Iterate through each matching row
                 for (WebElement cell : tableRow) {
                     // Extract data from table cells
-                    String epochTime = String.valueOf(getEpochTime());
+                    Long epochTime = (Long) getEpochTime();
                     String teamName = cell.findElement(By.xpath("./td[contains(@class, 'name')]")).getText();
-                    String year = cell.findElement(By.xpath("./td[contains(@class, 'year')]")).getText();
-                    String winPercentage = cell.findElement(By.xpath("./td[contains(@class, 'pct')]")).getText();
+                    Integer year = Integer.parseInt(cell.findElement(By.xpath("./td[contains(@class, 'year')]")).getText());
+                    Double winPercentage = Double.parseDouble(cell.findElement(By.xpath("./td[contains(@class, 'pct')]")).getText());
 
                     // Create hashmap to store data for current row
                     HashMap<String, Object> hm = new HashMap<>();
@@ -200,11 +200,11 @@ public class WSUtils {
                 // Iterate through each table row
                 for (WebElement cell : tableRows) {
                     // Extract data from table cells
-                    String epochTime = String.valueOf(getEpochTime());
-                    String yr = year.getText();
+                    Long epochTime = (Long) getEpochTime();
+                    Integer yr = Integer.parseInt(year.getText());
                     String title = cell.findElement(By.xpath("./td[contains(@class, 'title')]")).getText();
-                    String nomination = cell.findElement(By.xpath("./td[contains(@class, 'nomination')]")).getText();
-                    String awards = cell.findElement(By.xpath("./td[contains(@class, 'awards')]")).getText();
+                    Integer nomination = Integer.parseInt(cell.findElement(By.xpath("./td[contains(@class, 'nomination')]")).getText());
+                    Integer awards = Integer.parseInt(cell.findElement(By.xpath("./td[contains(@class, 'awards')]")).getText());
                     Boolean isWinner = false;
                     try {
                         isWinner = cell.findElement(By.xpath("./td[contains(@class, 'best-picture')]/i")).isDisplayed();
